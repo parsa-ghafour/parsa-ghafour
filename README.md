@@ -7,7 +7,7 @@
 <p>Institute/University: Kharazmi University of Tehran,Iran</p>
 <p>2022-Present</p>
 <p>GPA: 3.67</p>
-<p>----------------------------------------------------------------</p>
+<p>--------------------------------------------------------------</p>
 <h3>Bachelor of Chemical Engineering</h3>
 <p>Branch: Food Industry</p>
 <p>Institute/University: Islamic Azad University Science and Research Branch Tehran,Iran</p>
