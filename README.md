@@ -13,3 +13,5 @@
 <p>Institute/University: Islamic Azad University Science and Research Branch Tehran,Iran</p>
 <p>2018-2022</p>
 <p>GPA: 3.76</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) [![Generic badge](https://img.shields.io/badge/<Python>-<DataAnalysis>-<COLOR>.svg)](https://shields.io/)
