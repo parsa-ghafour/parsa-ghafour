@@ -1,3 +1,3 @@
 # About me...
 
-<img align="center" src="![9c041380-70f6-11ea-927b-1a12578eb383](https://github.com/parsa-ghafour/parsa-ghafour/assets/139039835/17a210f3-b409-456e-bc1d-4c1e20b63a56)">
+<img align="center" src="https://github.com/parsa-ghafour/parsa-ghafour/assets/139039835/17a210f3-b409-456e-bc1d-4c1e20b63a56">
