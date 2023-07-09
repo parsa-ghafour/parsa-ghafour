@@ -25,4 +25,4 @@
 <h3>- Theoretical physics</h3>
 <h2 align="center">Conferences and seminars</h2>
 <h3>Introduction and computational use of matrices in Python</h3>
-<p>For: Department of Astronomy and High Energy Physics, Kharazmi University of Tehran</p>
+<p>For: Department of Astronomy and High Energy Physics, Kharazmi University of Tehran(May 2023)</p>
