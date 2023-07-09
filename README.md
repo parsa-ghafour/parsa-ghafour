@@ -14,5 +14,5 @@
 <p>2018-2022</p>
 <p>GPA: 3.76</p>
 <h2 align="center">Skills</h2>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Generic badge](https://img.shields.io/badge/DaraAnalysis-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Numerical−calculations-<COLOR>.svg)](https://shields.io/) \n
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Generic badge](https://img.shields.io/badge/DaraAnalysis-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Numerical−calculations-<COLOR>.svg)](https://shields.io/)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
