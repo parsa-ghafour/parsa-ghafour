@@ -31,7 +31,7 @@
 <p>- Particle cosmology</p>
 <p>- Theoretical physics</p>
 <h2 align="center">Conferences and seminars</h2>
-<h3>Matrices: what are, concepts, types and uses in computational physics</h3>
-<p>For: Department of Astronomy and High Energy Physics, Kharazmi University of Tehran(May 2023)</p>
 <h3>A model independent calibration of quasars</h3>
 <p>For: Department of Astronomy and High Energy Physics, Kharazmi University of Tehran(Oct 2023)</p>
+<h3>Matrices: what are, concepts, types and uses in computational physics</h3>
+<p>For: Department of Astronomy and High Energy Physics, Kharazmi University of Tehran(May 2023)</p>
