@@ -1,6 +1,8 @@
 # About me...
 
 <img align="center" src="https://github.com/parsa-ghafour/parsa-ghafour/assets/139039835/17a210f3-b409-456e-bc1d-4c1e20b63a56">
+<h2 align="center">Linkedin Page</h2>
+<p>linkedin.com/in/parsa-ghafour</p>
 <h2 align="center">Education</h2>
 <h3>Masters of Astrophysics and Cosmology</h3>
 <p>Branch: Computational Cosmology</p>
