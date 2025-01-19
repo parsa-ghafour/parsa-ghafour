@@ -5,6 +5,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  <p>linkedin.com/in/parsa-ghafour</p>
 <h2 align="center">Education</h2>
+<h3>Masters of Gravity and Cosmology</h3>
 <p>Branch: Computational Cosmology</p>
 <p>Institute/University: Kharazmi University of Tehran,Iran</p>
 <p>2022-Present</p>
