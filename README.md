@@ -2,8 +2,8 @@
 
 <img align="center" src="https://github.com/parsa-ghafour/parsa-ghafour/assets/139039835/17a210f3-b409-456e-bc1d-4c1e20b63a56">
 <h2 align="center">Academic Profiles</h2>
-<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/parsa-ghafour)<p/>
-<p>[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Ghafour-2)<p/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parsa-ghafour)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Ghafour-2)
 <h2 align="center">Education</h2>
 <h3>PhD in Gravity and Cosmology</h3>
 <p>Branch: Computational Cosmology</p>
