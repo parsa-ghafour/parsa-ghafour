@@ -1,19 +1,25 @@
 # About me...
 
 <img align="center" src="https://github.com/parsa-ghafour/parsa-ghafour/assets/139039835/17a210f3-b409-456e-bc1d-4c1e20b63a56">
-<h2 align="center">Linkedin Page</h2>
+<h2 align="center">Academic Profiles</h2>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  <p>linkedin.com/in/parsa-ghafour</p>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  <p>[LinkedIn](linkedin.com/in/parsa-ghafour)</p>
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)  <p>[ResearchGate](https://www.researchgate.net/profile/Parsa-Ghafour-2)</p>
 <h2 align="center">Education</h2>
+<h3>PhD in Gravity and Cosmology</h3>
+<p>Branch: Computational Cosmology</p>
+<p>Institute/University: Shahid Beheshti University of Tehran,Iran</p>
+<p>2025-Present</p>
+<p>GPA: --, Grade: -- </p>
 <h3>Masters of Gravity and Cosmology</h3>
 <p>Branch: Computational Cosmology</p>
 <p>Institute/University: Kharazmi University of Tehran,Iran</p>
-<p>2022-Present</p>
+<p>2022-2025</p>
 <p>GPA: 4.00, Grade: 94/100 </p>
 <h3>Masters of Astronomy and Astrophysics</h3>
 <p>Branch: Computational Astrophysics</p>
 <p>Institute/University: Kharazmi University of Tehran,Iran</p>
-<p>2022-Present</p>
+<p>2022-2025</p>
 <p>GPA: 4.00, Grade: 93/100 </p>
 <h3>Bachelor of Chemical Engineering</h3>
 <p>Branch: Food Industry</p>
